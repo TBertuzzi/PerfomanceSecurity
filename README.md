@@ -20,3 +20,8 @@ Realizei todos os exemplos e implementações.
 | ------------------- | :------------------: |:------------------: |
 |Utilizando Auth0 |[Configurar](https://github.com/TBertuzzi/AspNetCoreAuth0Demo/blob/main/README.md)|[Github](https://github.com/TBertuzzi/AspNetCoreAuth0Demo/)|
 |Ferramentas de Teste de Código e Segurança |[Sobre](https://github.com/bertuzziness/CodeSecurityTests/blob/main/README.md)|[Github](https://github.com/bertuzziness/CodeSecurityTests/)|
+
+🏖️**MAUI**
+
+|Exemplo |Como Utilizar| Código Fonte|
+| ------------------- | :------------------: |:------------------: |
