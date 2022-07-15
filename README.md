@@ -10,6 +10,7 @@ Realizei todos os exemplos e implementações.
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
 |Segurança com Xamarin.Forms |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-meu-app-esta-seguro-parte-1-14095f6ed22)|[Github](https://github.com/TBertuzzi/XamarinFormsBreachDetector/)|
+|Dicas de Perfomance|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-boas-pr%C3%A1ticas-e-melhorias-de-perfomance-c9ce9959211c)||
 
 
 ⚒**Asp.net core**
@@ -18,6 +19,7 @@ Realizei todos os exemplos e implementações.
 | ------------------- | :------------------: |:------------------: |
 |Utilizando Auth0 |[Configurar](https://github.com/TBertuzzi/AspNetCoreAuth0Demo/blob/main/README.md)|[Github](https://github.com/TBertuzzi/AspNetCoreAuth0Demo/)|
 |Ferramentas de Teste de Código e Segurança |[Sobre](https://github.com/bertuzziness/CodeSecurityTests/blob/main/README.md)|[Github](https://github.com/bertuzziness/CodeSecurityTests/)|
+|Utilizando CodeCracker |[Configurar](https://github.com/TBertuzzi/AspNetCoreCodeCracker/blob/main/README.md)|[Github](https://github.com/TBertuzzi/AspNetCoreCodeCracker/)|
 
 🏖️**MAUI**
 
